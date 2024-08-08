@@ -2,7 +2,7 @@
  * Voc JsSIP v3.10.1
  * Voc forrk of the Javascript SIP library
  * Copyright: 2012-2024 
- * Homepage: https://github.com/versatica/JsSIP#readme
+ * Homepage: https://github.com/johnmarkovalo/JsSIP#readme
  * License: MIT
  */
 
@@ -24595,9 +24595,6 @@ module.exports={
     "type": "git",
     "url": "git+https://github.com/versatica/JsSIP.git"
   },
-  "bugs": {
-    "url": "https://github.com/versatica/JsSIP/issues"
-  },
   "dependencies": {
     "@types/events": "^3.0.0",
     "@types/debug": "^4.1.7",
@@ -24633,7 +24630,7 @@ module.exports={
     "prepublish": "node npm-scripts.js prepublish",
     "release": "node npm-scripts.js release"
   },
-  "homepage": "https://github.com/versatica/JsSIP#readme",
+  "homepage": "https://github.com/johnmarkovalo/JsSIP#readme",
   "directories": {
     "lib": "lib",
     "test": "test"
